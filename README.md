@@ -33,7 +33,7 @@ Chat around with everyone, play, test Bastion, or whatever
 So we also hold some sort of giveaway events here too.
 Just keep an eye on the [#announcements]() channel.  
 
-[![Bastion Bot: Discord Server](https://discordapp.com/api/guilds/267022940967665664/embed.png?style=banner2)](https://discord.gg/fzx8fkt)
+[![Bastion Bot: Discord Server](https://discordapp.com/api/guilds/355475139451682828/embed.png?style=banner2)](https://discord.gg/fzx8fkt)
 
 ## Getting Started with Bastion Bot
 [Click Here](https://discordapp.com/oauth2/authorize?client_id=267035345537728512&scope=bot&permissions=2146958463)
